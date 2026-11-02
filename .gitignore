@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+.azure/
+.env
+*.local.json
+*.pem
+*.pfx
+*.key
+id_rsa*
